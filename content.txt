@@ -1,0 +1,80 @@
+Project Greenlight
+"Project Green Light" is a public-private partnership program launched by the city of Detroit in 2016. The program is designed to help improve public safety and reduce crime in the city by using high-definition video cameras to monitor businesses and public spaces in real-time. The program was created in response to a rise in crime in Detroit, particularly in areas with high concentrations of businesses.
+
+Under the program, participating businesses install high-definition cameras that are connected to a secure network monitored by the Detroit Police Department's Real-Time Crime Center. The cameras are positioned in such a way as to provide a clear view of the business's exterior, as well as any adjacent public areas, such as sidewalks or parking lots.
+
+The cameras are equipped with special software that can detect suspicious activity, such as loitering or trespassing, and alert police officers in real-time. In addition, the cameras can be accessed by police officers in the Real-Time Crime Center, who can use them to monitor and respond to incidents as they occur.
+
+Businesses that participate in the program are required to display a "Project Green Light" logo on their premises, which serves as a visible deterrent to would-be criminals. In addition, participating businesses receive additional police support, including priority response to emergency calls and increased police patrols in the area.
+
+The program has been credited with reducing crime in areas where it has been implemented. However, it has also been criticized by some who argue that it represents an invasion of privacy and could potentially be used to target marginalized communities.
+Robert Williams wrongful Arrest
+Robert Williams is a Black man who was arrested in January 2020 in front of his wife and children at their home in Detroit. He was accused of stealing watches from a luxury goods store in downtown Detroit in 2018, and the evidence against him included a facial recognition match from a surveillance camera.
+
+However, Williams maintained his innocence and argued that he had never been to the store in question. His case gained national attention when the American Civil Liberties Union (ACLU) filed a complaint on his behalf, alleging that the use of facial recognition technology had violated his civil rights.
+
+In June 2020, the Wayne County Prosecutor's Office dropped all charges against Williams, citing a lack of evidence. In addition, the Detroit Police Department issued a moratorium on the use of facial recognition technology, pending a review of its policies and procedures.
+
+The case of Robert Williams has raised concerns about the accuracy and bias of facial recognition technology, particularly when it comes to its use in law enforcement. Critics argue that the technology is prone to errors and can disproportionately misidentify people of color and marginalized communities, leading to false arrests and other civil rights violations.
+Regulatory oversight in Michigan
+In 2019, the Michigan legislature passed a set of bills that regulate the use of facial recognition technology by law enforcement agencies in the state. The bills require that law enforcement agencies obtain a search warrant before using facial recognition technology to identify a suspect in an investigation, except in cases of emergency. The bills also require that law enforcement agencies maintain records of their use of facial recognition technology and report their findings to the state legislature.
+
+In addition, the Michigan State Police, which maintains a database of driver's license photos, has implemented a policy that restricts the use of facial recognition technology to specific investigations, such as those involving violent crimes or threats to national security. The policy also requires that the use of facial recognition technology be subject to oversight and review by internal auditors.
+
+However, some civil liberties groups have argued that the regulations do not go far enough to protect privacy and civil rights. They have called for a complete ban on the use of facial recognition technology by law enforcement, citing concerns about accuracy, bias, and the potential for abuse.
+
+Yes, the bills passed in Michigan that regulate the use of facial recognition technology are collectively known as the "Michigan Facial Recognition Act."
+
+The Michigan Facial Recognition Act is made up of two bills: House Bill 4810 and Senate Bill 342. These bills were signed into law by Michigan Governor Gretchen Whitmer in July 2020.
+
+Under the Michigan Facial Recognition Act, law enforcement agencies are required to obtain a warrant before using facial recognition technology to identify a suspect in an investigation, except in cases of emergency. The Act also requires that law enforcement agencies maintain records of their use of facial recognition technology and report their findings to the state legislature.
+
+In addition, the Act requires that the Michigan State Police, which maintains a database of driver's license photos, implement policies and procedures to ensure the accuracy and reliability of facial recognition technology. The Act also establishes a commission to review and make recommendations on the use of facial recognition technology by law enforcement in the state.
+
+Overall, the Michigan Facial Recognition Act is aimed at ensuring that the use of facial recognition technology by law enforcement is subject to appropriate oversight and regulation, in order to protect the privacy and civil rights of Michigan residents.
+
+Senate Bill 342
+Sure! Senate Bill 342 is one of the two bills that make up the Michigan Facial Recognition Act, which regulates the use of facial recognition technology by law enforcement agencies in the state.
+
+Senate Bill 342 sets out specific requirements and restrictions on the use of facial recognition technology by law enforcement in Michigan. Here are some key provisions of the bill:
+
+1.	Warrant requirement: Under Senate Bill 342, law enforcement agencies must obtain a warrant before using facial recognition technology to identify a suspect in an investigation, except in cases of emergency.
+
+2.	Database requirements: The bill requires law enforcement agencies to maintain records of their use of facial recognition technology, including information about the individuals who were searched and the outcomes of those searches. Law enforcement agencies must also report their findings to the state legislature on an annual basis.
+
+3.	Accuracy and reliability: Senate Bill 342 requires the Michigan State Police, which maintains a database of driver's license photos, to implement policies and procedures to ensure the accuracy and reliability of facial recognition technology.
+
+4.	Oversight and review: The bill establishes a commission to review and make recommendations on the use of facial recognition technology by law enforcement in the state. The commission is tasked with examining issues such as accuracy, bias, and privacy concerns.
+
+Overall, Senate Bill 342 is designed to provide specific guidance and restrictions on the use of facial recognition technology by law enforcement in Michigan, in order to ensure that it is used in a way that is transparent, accountable, and respectful of individual privacy and civil rights.
+
+House Bill 4810
+
+Certainly! House Bill 4810 is the other bill that makes up the Michigan Facial Recognition Act, which regulates the use of facial recognition technology by law enforcement agencies in the state.
+
+Here are some key provisions of House Bill 4810:
+
+Warrant requirement: Like Senate Bill 342, House Bill 4810 requires law enforcement agencies to obtain a warrant before using facial recognition technology to identify a suspect in an investigation, except in cases of emergency.
+
+Privacy protections: The bill requires law enforcement agencies to establish policies and procedures to protect the privacy and civil liberties of individuals who are subject to facial recognition searches.
+
+Training requirements: House Bill 4810 requires law enforcement officers who use facial recognition technology to undergo training on the proper use and limitations of the technology.
+
+Reporting requirements: The bill requires law enforcement agencies to maintain records of their use of facial recognition technology and report their findings to the state legislature on an annual basis.
+
+Commission membership: The bill establishes the membership of the commission that is tasked with reviewing and making recommendations on the use of facial recognition technology by law enforcement in the state.
+
+Overall, House Bill 4810 is aimed at ensuring that the use of facial recognition technology by law enforcement in Michigan is subject to appropriate oversight and regulation, and that it respects the privacy and civil rights of Michigan residents. By establishing specific requirements and restrictions on the use of the technology, the bill seeks to strike a balance between law enforcement needs and individual privacy and civil liberties.
+
+Works
+Bill 4810 (2019) -http://www.legislature.mi.gov/(S(u0vgmwprv0phg1lk3hkbsj3t))/mileg.aspx?page=GetObject&objectname=2019-HB-4810
+
+Senate 342 (2019) - http://www.legislature.mi.gov/(S(tovvwgml0ngqcc51frfuxdqv))/mileg.aspx?page=GetObject&objectname=2019-SB-0342
+
+Greenlight wrongful Arrest
+https://www.freep.com/story/news/local/michigan/2021/04/13/detroit-police-wrongful-arrest-faulty-facial-recognition/7207135002/
+
+Project Greenlight
+https://detroitmi.gov/departments/police-department/project-green-light-detroit
+
+
