@@ -2,6 +2,7 @@ main, nav, body, footer{
     display: flex;
     background-color: #232323;
     color: #B0B0B0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 main{
@@ -39,6 +40,8 @@ body{
     font-size: 50px;
 
     color:#759257;
+    font-family: 'Exo', sans-serif;
+    
 
 
 }
@@ -78,6 +81,7 @@ nav > li > a{
 }
 nav > li > a:visited, nav > li > a{
     color: #759257;
+    font-family: 'Exo', sans-serif;
     text-decoration: none;
 }
 nav > li > a:hover{
