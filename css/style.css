@@ -1,5 +1,7 @@
 main, nav, body, footer{
     display: flex;
+    background-color: #232323;
+    color: #B0B0B0;
 }
 
 main{
@@ -35,6 +37,8 @@ body{
 
     text-align: left;
     font-size: 50px;
+
+    color:#759257;
 
 
 }
@@ -73,7 +77,7 @@ nav > li > a{
     font-size: 35px;
 }
 nav > li > a:visited, nav > li > a{
-    color: black;
+    color: #759257;
     text-decoration: none;
 }
 nav > li > a:hover{
@@ -83,3 +87,8 @@ nav > li > a:hover{
 ol{
     font-size: 35px;
 }
+
+#source > ol> a, #source > ol > a:visited{
+    color : #A8DAF9;
+}
+
